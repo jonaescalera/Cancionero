@@ -65,20 +65,27 @@ export default class ListSong extends React.Component {
 		const { navigate } = this.props.navigation;
 		return (
 			<View style={styles.searchSection}>
-				<TextInput
-					style={styles.textInput}
-					onChangeText={(text) => this.filterData(text)}
-					value={this.state.text}
-					placeholder="Busca una canción"
-					placeholderTextColor="white"
-					underlineColorAndroid="transparent"
-				/>
-				<Icon
-					style={styles.searchIcon}
-					name="ios-search"
-					size={20}
-					color="white"
-				/>
+				<View style={{ alignItems: "center" }}>
+					<Input
+						rightIcon={{ name: "search", color: "#fff" }}
+						placeholder="Busca una canción"
+						inputStyle={{
+							color: "#fff",
+							
+						}}
+						placeholderTextColor="gray"
+						containerStyle={{
+							borderWidth: 1,
+							borderColor: "gray",
+							borderRadius: 15,
+							underlineColorAndroid:"transparent"
+						}}
+						inputContainerStyle={{
+							borderBottomColor: 'transparent',
+							}}
+						onChangeText={(text) => this.filterData(text)}
+					/>
+				</View>
 
 				{this.state.hayRegistros ? (
 					<FlatList
@@ -89,7 +96,7 @@ export default class ListSong extends React.Component {
 					/>
 				) : (
 					<Text style={styles.textElementsNotFound}>
-						Título no encontrado
+						No se encontraron resultados
 					</Text>
 				)}
 			</View>
@@ -110,9 +117,11 @@ const styles = StyleSheet.create({
 		paddingLeft: 10
 	},
 	textElementsNotFound: {
-		fontSize: 30,
+		fontSize: 18,
 		marginLeft: 50,
-		color: "white"
+		marginTop: 10,
+		color: "white",
+		fontFamily: Fonts.GothamMediumRegular
 	},
 	letra: {
 		color: "white",
@@ -120,7 +129,6 @@ const styles = StyleSheet.create({
 	},
 	searchSection: {
 		flex: 1,
-
 		backgroundColor: "black"
 	},
 	searchIcon: {
@@ -128,3 +136,21 @@ const styles = StyleSheet.create({
 		paddingLeft: 350
 	}
 });
+
+/*
+				<TextInput
+					style={styles.textInput}
+					onChangeText={(text) => this.filterData(text)}
+					value={this.state.text}
+					placeholder="Busca una canción"
+					placeholderTextColor="white"
+					underlineColorAndroid="transparent"
+				/>
+				<Icon
+					style={styles.searchIcon}
+					name="ios-search"
+					size={20}
+					color="white"
+				/>
+
+*/
