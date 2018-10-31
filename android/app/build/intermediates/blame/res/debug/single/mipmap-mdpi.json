@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\practicas\\cancionero\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\practicas\\cancionero\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\temp\\Cancionero\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\temp\\Cancionero\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
