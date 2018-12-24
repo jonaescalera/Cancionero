@@ -10,6 +10,9 @@ import { Input } from "react-native-elements";
 import customData from "../data/data.json";
 import { white, black } from "ansi-colors";
 
+import Background from "../components/Background";
+
+
 export default class ListSong extends React.Component {
 	constructor() {
 		super();
@@ -61,45 +64,29 @@ export default class ListSong extends React.Component {
 		});
 	}
 
+	componentDidMount() {
+		this.props.navigation.setParams({ filterData: this.filterData.bind(this) });
+	}
+
 	render() {
 		const { navigate } = this.props.navigation;
 		return (
-			<View style={styles.searchSection}>
-				<View style={{ alignItems: "center" }}>
-					<Input
-						rightIcon={{ name: "search", color: "#fff" }}
-						placeholder="Busca una canción"
-						inputStyle={{
-							color: "#fff",
-							
-						}}
-						placeholderTextColor="gray"
-						containerStyle={{
-							borderWidth: 1,
-							borderColor: "gray",
-							borderRadius: 15,
-							underlineColorAndroid:"transparent"
-						}}
-						inputContainerStyle={{
-							borderBottomColor: 'transparent',
-							}}
-						onChangeText={(text) => this.filterData(text)}
-					/>
-				</View>
-
-				{this.state.hayRegistros ? (
-					<FlatList
-						data={this.state.dataClon || this.state.data}
-						renderItem={this.renderItem}
-						keyExtractor={(item) => item.name}
-						stickyHeaderIndices={this.state.stickyHeaderIndices}
-					/>
-				) : (
-					<Text style={styles.textElementsNotFound}>
-						No se encontraron resultados
+			<Background >
+				<View>
+					{this.state.hayRegistros ? (
+						<FlatList
+							data={this.state.dataClon || this.state.data}
+							renderItem={this.renderItem}
+							keyExtractor={(item) => item.name}
+							stickyHeaderIndices={this.state.stickyHeaderIndices}
+						/>
+					) : (
+							<Text style={styles.textElementsNotFound}>
+								No se encontraron resultados
 					</Text>
-				)}
-			</View>
+						)}
+				</View>
+			</Background>
 		);
 	}
 }

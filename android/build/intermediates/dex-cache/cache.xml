@@ -3,201 +3,201 @@
 
     <item
         is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_7d3e52061cee63dcdc5fec201ab3068fc80c7040.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_7aff64d95d8a5a7564b4c60c1051c914b4883db7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\lcontreras\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_ceb4fe5f2999644c0b8d49b9bbabf79c09c73162.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\lcontreras\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_2d3982884b09f27fe5838dcb41aa6588bbffbbaf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\java\android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_2e4889849bfab077e4b972b58bf4338f4f5b231a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_aa799ccf8f4a1a1bd93b318be86116ba7b4008ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_04b0ff2f8764c5b6a6362916c4fd967505a34a74.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_a85e76762e7334b55062224122895e8accb03537.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\lcontreras\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_add215e8e1754469ebf404b4a8f08a7341aff514.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_7f16eb43726601ababeb80941ca1beccf796aaed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\lcontreras\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_6ae5c0c77b1910acb229c536e6f0f4fc5e37befa.jar" />
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_576c510f4d01f3fedcfe589b27afa07deee7cbc0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_0919ea660cca6d7c9f44f73aef62ef4b53390e38.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_bc7a844a7a6319a0557caceb5a3963528ba1a77b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_e4506cf92315fa2a023a87a3acab56bc58e2c201.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\lcontreras\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_e2c6e37035823a80dd03b9d06a85933d1303b01b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_d41a9a24525bc31c31691ad5eef2d4056037f3eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_cc82e68e76959f97ff7c60283a08f353378ef2fb.jar" />
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_95750db03c4a8a61408e9558174b8cfab8a29c7e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\lcontreras\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_a78dd0fb4f81795a37794fb31aea7aa39d042d63.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_3cae39c38ef6e8a8059ca063552197398043b2f0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\Cancionero\react-native-vector-icons\unspecified\jars\classes.jar"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\Cancionero-react-native-vector-icons-unspecified_f410992dc25a7414fd16e29cc11b39267c28fa20.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_9df3473010bbc7c5d559fca354c6ef44bc8c5be1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_2ba6e992b5539c4c2588c5b652028a63eb127389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Java\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_4a54c8ed3273f0b5a0e0beae755c97ea9ee9588e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_a3d77fbbf2c88fb757d7c5eaf48fbb014e30400b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_68f532c0dfe928d873d9d2debe38c252e0248569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_56e5971cf20a31ac224b03d76feda418d3e8d4d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_89942b88bd557831b6a27347cdaf6e1815cff4a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ff29ba483915a67a9f8635d5ed263e100fa66fbb.jar" />
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2547d48804207810cd450132ca0413ebc5061484.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\practicas\cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_6cefb5fcf46b7fa8a27bb42a53231740a071062f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_2144de5e97874215da50120f3d7779df683f6f8b.jar" />
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_1f56ae465cbb831249572103cd364b208ba5771a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\lcontreras\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_87f3179f9a9be816d54e1640ac26fb6d0a8ecb0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="C:\practicas\cancionero\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_22920cacaf57c8623782574a67b2c762c4e38d46.jar" />
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_60f5f9cd1fedb5fd81555d224e61d6764f7d74be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_09688927c01cd652068451068eb03a156ab898e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_0f721011a662379a500ba4b9c21a2e5082948257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_144f9732ab5c23b2ffab121918626dc88e38411e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_65843b18c55ca45bb2f3f3fbb7fbe1c70c8c7626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\Cancionero\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\Cancionero-react-native-vector-icons-unspecified_a226cf9b65e28a7ba98695acd8e5b3949dce57eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\practicas\rn\Cancionero\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_cb91f376bc41db01c21c616307526627cde477eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\practicas\rn\Cancionero\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_92ea397e55e10ac93e8523bbb665c2793b8fc521.jar" />
     </item>
 
 </items>

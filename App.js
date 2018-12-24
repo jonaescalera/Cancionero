@@ -1,58 +1,83 @@
 "use strict";
 import React, { Component } from "react";
-import { Text, View, StyleSheet, Image, ImageBackground } from "react-native";
-
-import ListSong from "./src/components/ListSong";
-import Song from "./src/components/Song";
+import { Text, View } from "react-native";
 import { createStackNavigator } from "react-navigation";
-import { Fonts } from "./src/utils/Fonts";
-import Icon from "react-native-vector-icons/FontAwesome";
+import { IconToggle } from "react-native-material-ui";
 
-import { Header } from "react-native-elements";
+import Song from "./src/components/Song";
+import ListSong from "./src/components/ListSong";
+import ToolBarApp from "./src/components/ToolBarApp";
+import InputSearch from "./src/components/InputSearch";
+import { Fonts } from "./src/utils/Fonts";
 
 const AppNavigator = createStackNavigator(
 	{
 		ListSong: {
 			screen: ListSong,
-			navigationOptions: ({ navigation }) => {}
+			navigationOptions: ({ navigation }) => {
+				const { params = {} } = navigation.state;
+
+				return {
+					header: (
+						<ToolBarApp
+							title={(
+								<View>
+									<View style={{ flexDirection: "row" }}>
+										<Text style={{
+											color: "white",
+											fontSize: 50,
+											fontFamily: Fonts.GothamMediumRegular
+										}}>canta</Text>
+										<Text style={{
+											fontSize: 50,
+											color: "red",
+											fontFamily: Fonts.GothamMediumRegular
+										}}>olivos</Text>
+									</View>
+
+									<InputSearch filterData={params.filterData} />
+								</View>
+							)}
+						/>
+					)
+				};
+			}
 		},
-		Song: { screen: Song }
+		Song: {
+			screen: Song, navigationOptions: ({ navigation }) => {
+				const { params = {} } = navigation.state;
+
+				return {
+					header: (
+						<ToolBarApp
+							height={60}
+							backgroundColor="transparent"
+							leftMenu={
+								<IconToggle
+									name="arrow-back"
+									color="white"
+
+									onPress={() => {
+										navigation.goBack();
+									}}
+								/>
+							}
+						/>
+					)
+				};
+			}
+		}
 	},
 	{
 		initialRouteName: "ListSong",
 		headerMode: "screen",
-		navigationOptions: ({ navigation }) => ({
-			header: (props) => (
-				<Header
-					leftComponent={{
-						icon: "menu",
-						color: "#fff",
-						onPress: () => {}
-					}}
-				/>
-			)
-		})
 	}
 );
 
-class App extends Component {
-	constructor(props) {
-		super(props);
-	}
+export default class App extends Component {
 	render() {
 		console.disableYellowBox = true;
 
 		return <AppNavigator />;
 	}
 }
-
-const styles = StyleSheet.create({
-	container: {
-		flex: 1,
-		backgroundColor: "#fff",
-		alignItems: "center",
-		justifyContent: "center"
-	}
-});
-
-export default App;
